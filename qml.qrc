@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>QtShape.qml</file>
+        <file>Heading.qml</file>
+        <file>Spacer.qml</file>
+        <file>BulletPoint.qml</file>
+        <file>WaylandSlide.qml</file>
+        <file>QtWaylandCompositorSlide.qml</file>
+        <file>TitleSlide.qml</file>
+        <file>ResizingIviSurface.qml</file>
+        <file>Runner.qml</file>
+        <file>TerminalDrawer.qml</file>
+        <file>IviApplicationLauncher.qml</file>
+        <file>NiceEditorSlide.qml</file>
+        <file>FullScreenCompositorSlide.qml</file>
+    </qresource>
+</RCC>

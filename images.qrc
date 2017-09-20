@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>wayland.svg</file>
+        <file>imx6.png</file>
+    </qresource>
+</RCC>

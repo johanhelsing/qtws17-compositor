@@ -1,8 +1,9 @@
 # qtws17-compositor
 
-This is the compositor I used for my presentation at Qt World Summit 2017.
+This is the compositor I used for my Qt Wayland Compositor live-coding session
+at Qt World Summit 2017:
 
-If there is a recording of the presentation, I will add it here afterwards.
+https://www.youtube.com/watch?v=mIg1P3i2ZfI
 
 The presentation is written to run nested compositors and a text editor inside
 slides. The goal is to enable easy live coding and good syntax highlighting.
